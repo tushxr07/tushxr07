@@ -101,16 +101,6 @@ quality data, geolocation and dynamic time-of-day theming. No framework.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=tushxr07&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 **Languages**
@@ -193,8 +183,6 @@ quality data, geolocation and dynamic time-of-day theming. No framework.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushxr07&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1f8a78&fire=1f8a78&currStreakLabel=1f8a78" />
 
 <br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushxr07&bg_color=0D1117&color=1f8a78&line=1f8a78&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
